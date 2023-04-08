@@ -1,0 +1,76 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 07 May 2021, 17:19:19
+    Author     : lenovo
+*/
+
+.footer {
+   position: relative;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   height: 30px;
+   background-color: darkcyan;
+   color: white;
+   text-align: center;
+}
+
+.stuff{
+    background-color: darkcyan
+}
+
+.navigation{
+    overflow: hidden;
+    background-color: darkcyan;
+}
+
+.navigation a{
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.navigation a:hover {
+  background-color: darkgray;
+  color: white;
+}
+
+.navigation a.active {
+  background-color: black;
+  color: white;
+}
+
+.heading{
+    background-color: darkcyan;
+    color:white;
+    text-align: center;
+}
+
+.column {
+  flex: 50%;
+  padding: 10px;
+  
+}
+
+.our_work{
+    background-color: darkgray;
+    text-align: center;
+}
+
+.our_work_heading{
+    color: white;
+    background-color: darkcyan;
+    text-align: center;
+}
+
+
+
+
+
